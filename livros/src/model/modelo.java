@@ -44,5 +44,4 @@ public class modelo {
 		this.editora = editora;
 	}
 	
-	//aaaaa
 }
