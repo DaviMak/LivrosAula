@@ -16,6 +16,7 @@ public class tela {
 	private JLabel textotitulo = new JLabel("titulo");
 	private JTextField campotitulo = new JTextField(255);
 	
+	private JLabel textoinserir = new JLabel("Inserir");
 	private JButton btnInserir = new JButton("Inserir");
 
 	public JButton getBtnInserir() {
